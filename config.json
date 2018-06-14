@@ -6,6 +6,7 @@
     "ircNickColor": false,
     "channelMapping": {
       "#irc-relay": "#miraheze"
+      "#cvt": "#miraheze-cvt"
     },
     "ignoreUsers": {
       "irc": ["icinga-miraheze", "ZppixBot"]
@@ -14,7 +15,7 @@
 	  "irc": ["^Not-.{4}$"]
 	},
      "ircOptions": {
-       "channels": ["#miraheze"],
+       "channels": ["#miraheze", "#miraheze-cvt"],
        "debug": false,
        "userName": "MH-Discord",
        "password": "MHrelay",
