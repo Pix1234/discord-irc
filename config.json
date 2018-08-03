@@ -6,7 +6,8 @@
     "ircNickColor": false,
     "channelMapping": {
       "#irc-relay": "#miraheze",
-      "#cvt": "#miraheze-cvt"
+      "#cvt": "#miraheze-cvt",
+      "#cvt-private":"#miraheze-cvt-private"
     },
     "ignoreUsers": {
       "irc": ["icinga-miraheze", "ZppixBot"]
