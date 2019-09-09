@@ -10,7 +10,7 @@
       "#cvt-private":"#miraheze-cvt-private"
     },
     "ignoreUsers": {
-      "irc": ["icinga-miraheze", "ZppixBot"]
+      "irc": ["icinga-miraheze"]
     },
 	"rIngoreUsers": {
 	  "irc": ["^Not-.{4}$"]
