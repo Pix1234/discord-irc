@@ -2,7 +2,7 @@
   {
     "nickname": "MH-Discord",
     "server": "chat.freenode.net",
-    "discordToken": "NDM1NTcxNjM1MTY5Mzk0Njg4.Dba6Wg.ZsmAHxMQ3Q6k3-OJi_e6wzQPIcA",
+    "discordToken": "NDM1NTcxNjM1MTY5Mzk0Njg4.XXal9Q.abhxh4f08AOvfgppPWIGhQkCP7A",
     "ircNickColor": false,
     "channelMapping": {
       "#irc-relay": "#miraheze",
